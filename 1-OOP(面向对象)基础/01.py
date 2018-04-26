@@ -31,5 +31,8 @@ print(mary.age)
 # 未传入参数
 mary.doHomeWork()
 
+# 查看一个类的所有属性
+print(PythonStudent.__dict__)
+
 
 
