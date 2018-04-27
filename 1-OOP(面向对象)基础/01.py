@@ -22,7 +22,7 @@ class PythonStudent():
     # 3、系统默认的self参数
     def doHomeWork(self):
         print('做作业')
-        print('修改做作业的内容')
+        print('修改做作业的内容这是修改后的内容')
         return None
 
 # 实例化一个具体的学生:mary
