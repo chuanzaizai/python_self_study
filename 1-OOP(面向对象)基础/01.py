@@ -22,6 +22,7 @@ class PythonStudent():
     # 3、系统默认的self参数
     def doHomeWork(self):
         print('做作业')
+        print('我在zhph-001分支上面改了一个东西')
         return None
 
 # 实例化一个具体的学生:mary
